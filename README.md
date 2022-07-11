@@ -1,3 +1,3 @@
 # Mouse-Move-Shadow
 
-This is the 17. project of JS/30
+This is the 16. project of JS/30
